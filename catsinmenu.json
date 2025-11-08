@@ -1,0 +1,39 @@
+{
+    "name": "Cats In Menu",
+    "description": "This mod adds photos of cats (haha funy car) to the game menu. Some photos were taken by me personally.",
+    "author": "klodska",
+    "icon": "user://mods/catsinmenu_resources/icon.png",
+    "website": "https://github.com/Klodskaorig/catsinmenu/",
+    "adds": [
+		{
+			"type": "bgimage",
+			"image": "user://mods/catsinmenu_resources/photo_2025-05-30_19-11-02.png",
+			"author": "klodska"
+		},
+		{
+			"type": "bgimage",
+			"image": "user://mods/catsinmenu_resources/photo_2025-06-01_15-14-55.png",
+			"author": "klodska"
+		},
+		{
+			"type": "bgimage",
+			"image": "user://mods/catsinmenu_resources/photo_2025-06-01_15-15-04.png",
+			"author": "klodska"
+		},
+		{
+			"type": "bgimage",
+			"image": "user://mods/catsinmenu_resources/photo_2025-06-01_15-15-06.png",
+			"author": "klodska"
+		},
+		{
+            "type": "menubutton",
+            "text": "Cats in Menu by klodska",
+            "icon": "user://mods/catsinmenu_resources/icon.png",
+            "actions": [
+                {
+                    "openurl": "https://github.com/Klodskaorig/catsinmenu/"
+                }
+            ]
+        },
+    ]
+}
